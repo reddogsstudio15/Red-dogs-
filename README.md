@@ -6,12 +6,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Red Dogs | แบรนด์เสื้อผ้า</title>
+  <title>Red Dogs | แบรนด์เสื้อผ้า
   <style>
     body {
       margin: 0;
       font-family: 'Sarabun', sans-serif;
-      background-color: #f7f7f7;
+      background-color: 
     }
 
     header {
